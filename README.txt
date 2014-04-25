@@ -1,0 +1,2 @@
+To run my programs, simply enter the path of the input files when prompted.
+You will also be prompted to enter the desired path to the output file.  You need not create this file before typing the desired path.  Use the output of FrontEnd as the input for DavisPutnam and the output of DavisPutnam as the input for BackEnd :)
