@@ -1,5 +1,3 @@
-package davis_putnam;
-
 import java.util.*;
 import java.io.*;
 
